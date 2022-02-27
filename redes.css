@@ -1,0 +1,101 @@
+.top{
+background-color: Blue;
+height: 140px;
+width: 100%;
+display: flex;
+}
+
+.image{
+				height: 140px;
+				width: 140px;
+}
+
+.top h1{
+				margin-top: 45px;
+				margin-left: 30px;
+				font-family: 'Redressed', cursive;
+				font-size: 45px;
+				color: white;
+				
+}
+
+.fundo{
+				background-image: url(sobre.gif);
+				background-size: 260%;
+}
+
+.bar{
+				background: white;
+		    height: 60px;
+width: 100%;
+padding: 0;
+}
+
+.bar ul{
+				text-decoration: none;
+	     list-style: none;
+	     
+}
+
+.bar ul li{
+				display: inline-block;
+}
+
+.bar ul li a{
+       margin-left: 45px;
+				padding: 20px;
+				text-decoration: none;
+				color: blue;
+				font-size: 40px;
+				margin-top: -12px;
+				display: flex;
+				font-family: 'Redressed', cursive;
+}
+
+.bar ul li a:hover{
+				color: Red;
+}
+
+.redes3{
+				height: 600px;
+				width: 600px;
+				margin-top: 30px;
+				margin-left: 185px;
+}
+
+.tip{
+				color: yellow;
+				width: 500px;
+				margin-left: 200px;
+				font-size: 50px;
+				font-family: 'Redressed', cursive;
+				}
+				
+				.desc1{
+				color: white;
+				width: 500px;
+				margin-left: 200px;
+				font-size: 30;
+}
+
+.links ul li a{
+				 margin-left: 280px;
+				padding: 54px;
+				text-decoration: none;
+				color: White;
+				font-size: 48px;
+				margin-top: 40px;
+				display: flex;
+				font-family: 'Redressed', cursive;
+}
+
+.texx ul li a{
+				 margin-left: 300px;
+				padding: 54px;
+				text-decoration: none;
+				color: White;
+				font-size: 48px;
+				margin-top: 40px;
+				display: flex;
+				font-family: 'Redressed', cursive;
+}
